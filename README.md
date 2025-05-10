@@ -8,8 +8,9 @@
 
 <br>__Projects__
 
-**Done, adapt for other environments**
-<br>[Racoon-MC-Modpack-Installer](https://github.com/Martingonn/Raccoon-MC-Modpack-Installer) - downloads modpacks - [Done, adapt for other environments]    
+**Done*
+<br>[Racoon-MC-Modpack-Installer](https://github.com/Martingonn/Raccoon-MC-Modpack-Installer) - downloads modpacks - [Done]    
+<br>[Czechify](https://github.com/Martingonn/Czechify) - converts Polish into Czech digraphs - [Done]
 
 
 **In development**  
