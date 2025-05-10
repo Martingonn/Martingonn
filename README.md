@@ -7,40 +7,32 @@
 - ⚡ Fun fact: coding in Python since 2018!
 
 - Tools used
-<p>
-  <!-- VirtualBox -->
-  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="40" height="40"/>
-  </a>
-  <!-- Python -->
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- Windows XP -->
-  <a href="https://en.wikipedia.org/wiki/Windows_XP" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Windows_XP_logo.svg" alt="windows xp" width="40" height="40"/>
-  </a>
-  <!-- Windows ME -->
-  <a href="https://en.wikipedia.org/wiki/Windows_Me" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Windows_Me_logo.svg" alt="windows me" width="40" height="40"/>
-  </a>
-  <!-- MS-DOS -->
-  <a href="https://en.wikipedia.org/wiki/MS-DOS" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/MS-DOS_logo.svg" alt="ms-dos" width="40" height="40"/>
-  </a>
-  <!-- C -->
-  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <!-- Java -->
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <!-- Visual Basic -->
-  <a href="https://docs.microsoft.com/en-us/dotnet/visual-basic/" target="_blank" rel="noreferrer">
-    <img src="https://worldvectorlogo.com/logos/visual-basic.svg" alt="visual basic" width="40" height="40"/>
-  </a>
-</p>
+<ul>
+  <li>
+    Tools used:
+    <span style="vertical-align: middle;">
+      <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="virtualbox" width="32" height="32"/>
+      </a>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/>
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Windows_XP" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">Windows XP</a>
+      <a href="https://en.wikipedia.org/wiki/Windows_Me" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">Windows ME</a>
+      <a href="https://en.wikipedia.org/wiki/MS-DOS" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">MS-DOS</a>
+      <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32"/>
+      </a>
+      <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/>
+      </a>
+      <a href="https://en.wikipedia.org/wiki/Visual_Basic" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg" alt="visual basic" width="32" height="32"/>
+      </a>
+    </span>
+  </li>
+</ul>
+
 
 <br>__Projects__
 
