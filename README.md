@@ -6,12 +6,15 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: coding in Python since 2018!
 
-![Image 1](./assets/Python.png)
-![Image 2](./assets/WindowsME.png)
-![Image 3](./assets/WindowsXP.png)
-![Image 4](./assets/VirtualBox.png)
-![Image 5](./assets/MS-DOS.png)
-![Image 5](./assets/VisualBasic.png)
+<p align="center">
+  <img src="./assets/Python.png" width="200" />
+  <img src="./assets/WindowsME.png" width="200" />
+  <img src="./assets/WindowsXP.png" width="200" />
+  <img src="./assets/VirtualBox.png" width="200" />
+  <img src="./assets/MS-DOS.png" width="200" />
+  <img src="./assets/VisualBasic.png" width="200" />
+</p>
+
 
 <br>__Projects__
 
