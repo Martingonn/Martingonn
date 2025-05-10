@@ -15,9 +15,9 @@
       <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/>
       </a>
-      <a href="https://en.wikipedia.org/wiki/Windows_XP" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">Windows XP</a>
-      <a href="https://en.wikipedia.org/wiki/Windows_Me" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">Windows ME</a>
-      <a href="https://en.wikipedia.org/wiki/MS-DOS" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">MS-DOS</a>
+      <a href="https://en.wikipedia.org/wiki/Windows_XP#/media/File:Windows_XP_logo_and_wordmark.svg" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">Windows XP</a>
+      <a href="https://en.wikipedia.org/wiki/Windows_Me#/media/File:Microsoft_Windows_Millenium_Edition_Logo.svg" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">Windows ME</a>
+      <a href="https://en.wikipedia.org/wiki/MS-DOS#/media/File:Msdos-icon.svg" target="_blank" rel="noreferrer" style="text-decoration: none; color: inherit;">MS-DOS</a>
       <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32"/>
       </a>
