@@ -8,11 +8,13 @@
 
 <p align="center">
   <img src="./assets/Python.png" width="200" />
+  <img src="./assets/VisualBasic.png" width="200" />
   <img src="./assets/WindowsME.png" width="200" />
   <img src="./assets/WindowsXP.png" width="200" />
-  <img src="./assets/VirtualBox.png" width="200" />
   <img src="./assets/MSDOS.png" width="200" />
-  <img src="./assets/VisualBasic.png" width="200" />
+  <img src="./assets/VirtualBox.png" width="200" />
+  <img scr=".assets/Floppy.png" width="200" />
+  <img src="./assets/USB.png" width="200" />
 </p>
 
 
