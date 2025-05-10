@@ -9,6 +9,8 @@
 <p align="center">
   <img src="./assets/Python.png" width="200" />
   <img src="./assets/VisualBasic.png" width="200" />
+  <img src="./assets/LinuxMint.png" width="200" />
+  <img src="./assets/KaliLinux.png" width="200" />
   <img src="./assets/WindowsME.png" width="200" />
   <img src="./assets/WindowsXP.png" width="200" />
   <img src="./assets/MSDOS.png" width="200" />
