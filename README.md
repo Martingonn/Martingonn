@@ -9,15 +9,18 @@
 <br>__Projects__
 
 **Done, adapt for other environments**
-<br>[Racoon-MC-Modpack-Installer](https://github.com/Martingonn/Raccoon-MC-Modpack-Installer) - downloads modpacks - [Done, adapt for other environments]  
+<br>[Racoon-MC-Modpack-Installer](https://github.com/Martingonn/Raccoon-MC-Modpack-Installer) - downloads modpacks - [Done, adapt for other environments]    
+
 
 **In development**  
-<br>[Sentinel XP](https://github.com/Martingonn/SentinelXP) - antivirus for Windows XP - [In development]
+<br>[Sentinel XP](https://github.com/Martingonn/SentinelXP) - antivirus for Windows XP - [In development]  
+
 
 **Minor fixes to come**  
 <br>[Minecraft Remote Console Password Cracker](https://github.com/Martingonn/MinecraftRCONpasswordCracker) - [Minor fixes to come]   
 
 <br>[Windows XP Product Key Cracker](https://github.com/Martingonn/WindowsXP-Product-Key-Cracker) - [Minor fixes to come]  
+
 
 **Needs new approach**  
 <br>[Packrat Screen Recorder](https://github.com/Martingonn/PackratScreenRecorder) - Intended for Windows XP - [Needs entirely new approach]  
@@ -26,13 +29,15 @@
 
 <br>[VID-to-SCR-Lib](https://github.com/Martingonn/VID-to-SCR-Lib) - Converts Videos to .Scr - [Needs entirely new approach]  
 
-<br>[PythonYTDownloader](https://github.com/Martingonn/PythonYTDownloader) - Downloads YouTube videos - [Needs entirely new approach]  
+<br>[PythonYTDownloader](https://github.com/Martingonn/PythonYTDownloader) - Downloads YouTube videos - [Needs entirely new approach]   
+
 
 
 **Additions to come**  
 <br>[Dormouse Image Generator](https://github.com/Martingonn/Dormouse-ImageGen) - AI image generator in Python - [Additions to come]  
 
-<br>[HTTP Website List](https://github.com/Martingonn/HTTP-List) - A list of HTTP websites - [Additions to come as I find more such websites]
+<br>[HTTP Website List](https://github.com/Martingonn/HTTP-List) - A list of HTTP websites - [Additions to come as I find more such websites]  
+
 
 **Untested**  
 <br>[Sharemeal P2P Website](https://github.com/Martingonn/Sharemeal-P2P-Website) - allows for P2P website hosting - [Untested]  
