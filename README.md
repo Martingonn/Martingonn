@@ -5,32 +5,34 @@
 - 📫 Reach me martingonn.dev@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: coding in Python since 2018!
+
 <p align="left">
-  <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="virtualbox" width="32" height="32"/>
+  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="virtualbox" width="40" height="40" />
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" height="32"/>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Windows_XP" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Windows_XP_logo.svg" alt="Windows XP" width="32" height="32"/>
+  <a href="https://github.com/yourusername/yourrepo/blob/main/assets/windows-xp.png?raw=true" target="_blank" rel="noreferrer">
+    <img src="https://github.com/yourusername/yourrepo/blob/main/assets/windows-xp.png?raw=true" alt="windows xp" width="40" height="40" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Windows_Me" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Windows_Me_logo.svg" alt="Windows ME" width="32" height="32"/>
+  <a href="https://github.com/yourusername/yourrepo/blob/main/assets/windows-me.png?raw=true" target="_blank" rel="noreferrer">
+    <img src="https://github.com/yourusername/yourrepo/blob/main/assets/windows-me.png?raw=true" alt="windows me" width="40" height="40" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/MS-DOS" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/MS-DOS_logo.svg" alt="MS-DOS" width="32" height="32"/>
+  <a href="https://github.com/yourusername/yourrepo/blob/main/assets/ms-dos.png?raw=true" target="_blank" rel="noreferrer">
+    <img src="https://github.com/yourusername/yourrepo/blob/main/assets/ms-dos.png?raw=true" alt="ms-dos" width="40" height="40" />
   </a>
-  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32"/>
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
   </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Visual_Basic" target="_blank">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/vb.svg" alt="visual basic" width="32" height="32"/>
+  <a href="https://github.com/yourusername/yourrepo/blob/main/assets/visual-basic-5.png?raw=true" target="_blank" rel="noreferrer">
+    <img src="https://github.com/yourusername/yourrepo/blob/main/assets/visual-basic-5.png?raw=true" alt="visual basic 5" width="40" height="40" />
   </a>
 </p>
+
 
 
 
