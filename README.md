@@ -13,7 +13,7 @@
   <img src="./assets/WindowsXP.png" width="200" />
   <img src="./assets/MSDOS.png" width="200" />
   <img src="./assets/VirtualBox.png" width="200" />
-  <img scr=".assets/Floppy2.png" width="200" />
+  <img scr="./assets/Floppy.png" width="200" />
   <img src="./assets/USB.png" width="200" />
 </p>
 
