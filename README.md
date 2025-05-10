@@ -5,8 +5,6 @@
 - 📫 Reach me martingonn.dev@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: coding in Python since 2018!
-
-- Tools used
 <ul>
   <li>
     Tools used:
