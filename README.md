@@ -6,35 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: coding in Python since 2018!
 
-<p align="left">
-  <a href="https://www.virtualbox.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="virtualbox" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-  <a href="https://github.com/yourusername/yourrepo/blob/main/assets/windows-xp.png?raw=true" target="_blank" rel="noreferrer">
-    <img src="https://github.com/yourusername/yourrepo/blob/main/assets/windows-xp.png?raw=true" alt="windows xp" width="40" height="40" />
-  </a>
-  <a href="https://github.com/yourusername/yourrepo/blob/main/assets/windows-me.png?raw=true" target="_blank" rel="noreferrer">
-    <img src="https://github.com/yourusername/yourrepo/blob/main/assets/windows-me.png?raw=true" alt="windows me" width="40" height="40" />
-  </a>
-  <a href="https://github.com/yourusername/yourrepo/blob/main/assets/ms-dos.png?raw=true" target="_blank" rel="noreferrer">
-    <img src="https://github.com/yourusername/yourrepo/blob/main/assets/ms-dos.png?raw=true" alt="ms-dos" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://github.com/yourusername/yourrepo/blob/main/assets/visual-basic-5.png?raw=true" target="_blank" rel="noreferrer">
-    <img src="https://github.com/yourusername/yourrepo/blob/main/assets/visual-basic-5.png?raw=true" alt="visual basic 5" width="40" height="40" />
-  </a>
-</p>
-
-
-
+![Image 1](./assets/image1.png)
 
 <br>__Projects__
 
