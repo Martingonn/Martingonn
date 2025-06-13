@@ -52,7 +52,9 @@
 **Additions to come**  
 <br>[Dormouse Image Generator](https://github.com/Martingonn/Dormouse-ImageGen) - AI image generator in Python - [Additions to come]  
 
-<br>[HTTP Website List](https://github.com/Martingonn/HTTP-List) - A list of HTTP websites - [Additions to come as I find more such websites]  
+<br>[HTTP Website List](https://github.com/Martingonn/HTTP-List) - A list of HTTP websites - [Additions to come as I find more such websites]
+
+<br>[Martin's Office 97 Presentations](https://github.com/Martingonn/MartinsOffice97Presentations) - A list of presentations made in Office 97 - [Additions to come]
 
 
 **Untested**  
