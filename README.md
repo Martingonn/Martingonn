@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Martingonn
-- 👀 I’m interested in Python, old operating systems, privacy
-- 🌱 I’m currently learning Visual Basic 5.0 on Windows ME emulator and coding cheats for games
+- 👀 I’m interested in Python, C++, old operating systems, privacy
+- 🌱 I’m currently learning C++ and making an antivirus for Windows XP
 - 💞️ I’m looking to collaborate on Meteor Client addons
 - 📫 Reach me martingonn.dev@outlook.com
 - 😄 Pronouns: he/him
