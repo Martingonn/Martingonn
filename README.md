@@ -62,5 +62,9 @@
 
 <br>[InstanceSwarm](https://github.com/Martingonn/InstanceSwarm) - allows for many VMs to run on one host with one command - [Untested]
 
+**Misc**
+
+<br>[My presentations in Office 95 and 97](https://github.com/Martingonn/MartinsOldMSOfficePresentations/) - check them out, still adding some more in! - [Misc]
+
 
 
