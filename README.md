@@ -21,7 +21,7 @@
 </p>
 
 
-<br>__Projects__
+<br>__Coding Projects__
 
 **Done**
 <br>[Racoon-MC-Modpack-Installer](https://github.com/Martingonn/Raccoon-MC-Modpack-Installer) - downloads modpacks - [Done]    
@@ -62,9 +62,11 @@
 
 <br>[InstanceSwarm](https://github.com/Martingonn/InstanceSwarm) - allows for many VMs to run on one host with one command - [Untested]
 
-**Misc**
+<br>__Media Projects__
 
-<br>[My presentations in Office 95 and 97](https://github.com/Martingonn/MartinsOldMSOfficePresentations/) - check them out, still adding some more in! - [Misc]
+<br>[My presentations in Office 95 and 97](https://github.com/Martingonn/MartinsOldMSOfficePresentations/) - check them out, still adding some more in! - [Media]
+
+<br>[CPP Practice](https://github.com/Martingonn/MartinsCPPPractice/) - check this out, still practicing modern CPP! - [Media]
 
 
 
