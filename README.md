@@ -26,6 +26,7 @@
 **Done**
 <br>[Racoon-MC-Modpack-Installer](https://github.com/Martingonn/Raccoon-MC-Modpack-Installer) - downloads modpacks - [Done]    
 <br>[Czechify](https://github.com/Martingonn/Czechify) - converts Polish into Czech digraphs - [Done]
+<br>[Mouse Peeper](https://github.com/Martingonn/MousePeeper/) - plays customizeable sounds when mouse is clicked - [Done]
 
 
 **In development**  
@@ -47,7 +48,13 @@
 
 <br>[PythonYTDownloader](https://github.com/Martingonn/PythonYTDownloader) - Downloads YouTube videos - [Needs entirely new approach]   
 
+**For Windows XP**
 
+<br>[Windows XP Product Key Cracker](https://github.com/Martingonn/WindowsXP-Product-Key-Cracker) - [Minor fixes to come] 
+
+<br>[Sentinel XP](https://github.com/Martingonn/SentinelXP) - antivirus for Windows XP - [In development] 
+
+<br>[Mouse Peeper](https://github.com/Martingonn/MousePeeper/) - plays customizeable sounds when mouse is clicked - [Done]
 
 **Additions to come**  
 <br>[Dormouse Image Generator](https://github.com/Martingonn/Dormouse-ImageGen) - AI image generator in Python - [Additions to come]  
